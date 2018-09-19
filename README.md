@@ -6,7 +6,7 @@
 
 Example Question: This article explains what CSS is, how the browser turns HTML into a Document Object Model (___), how CSS is applied to parts of the DOM, some very basic syntax examples, and what code is used to actually include our CSS in our web page.
 
-1. Name the two other markup languages mentioned in the article.
+1. Name the two other markup languages (other than HTML) mentioned in the article.
 
 2. In technical terms, what does it mean to present a document. **Quote the article.**
 
