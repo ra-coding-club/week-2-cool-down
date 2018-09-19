@@ -64,7 +64,7 @@ Example Question: This article explains what CSS is, how the browser turns HTML 
 
 ### Answers
 
-Type your answers here:
+Type your answers here: 
 
 Example Answer: *DOM*
 
